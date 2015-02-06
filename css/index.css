@@ -1,0 +1,15 @@
+.wrapper {
+	text-align: center;
+}
+
+.launchBtn {
+	margin: 20px;
+}
+
+.imgModalBtn {
+	color: #777;
+	border: solid 3px #888;
+	border-radius: 5px;
+	background-color: #fff;
+	outline: none;
+}
